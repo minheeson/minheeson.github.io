@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Review
+title: REVIEWS
 slug: review
 menu: true
 submenu: true
