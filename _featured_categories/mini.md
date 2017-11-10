@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Video
-slug: video
+title: Mini
+slug: mini
 menu: true
 submenu: true
 order: 5
