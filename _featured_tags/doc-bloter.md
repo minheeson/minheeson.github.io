@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Boilerplate
-slug: boilerplate
+title: Bloter
+slug: bloter
 category: doc
 menu: false
 order: 1

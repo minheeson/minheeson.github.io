@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Music
-slug: music
+title: Test
+slug: test
 category: review
 menu: false
 order: 2
