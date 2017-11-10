@@ -22,7 +22,7 @@ minheeson:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    facebook:        zooqzqz
+#facebook:        손민희
     # twitter:         <username>
     # google:          <number>
     # vk:              <username>
@@ -58,7 +58,7 @@ minheeson:
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           mailto:lois7109@gmail.com
-    rss:             https://isme2n.github.io/feed.xml
+    rss:             https://minheeson.github.io/feed.xml
 
 # Another author
 mdo:
