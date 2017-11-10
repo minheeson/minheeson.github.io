@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Documents
-slug: doc
+title: BOOKS
+slug: book
 menu: true
 submenu: true
 order: 7
