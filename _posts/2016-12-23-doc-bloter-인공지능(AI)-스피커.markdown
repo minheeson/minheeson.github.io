@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "[bloter]인공지능(AI) 스피커"
-subtitle:   "[bloter]인공지능(AI) 스피커"
+title:  "[bloter] 인공지능(AI) 스피커"
+subtitle:   "[bloter] 인공지능(AI) 스피커"
 categories: doc
 tags: bloter
 ---
