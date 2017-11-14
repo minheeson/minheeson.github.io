@@ -16,11 +16,8 @@ tags: bloter
 
 * 2013년, 미국 FBI가 온라인 마약 거래 웹사이트 '실크로드'를 적발해 폐쇄하면서 알려짐
 
-   
 
 ## 서피스웹, 딥웹, 다크웹 
-
-<img src="https://github.com/minheeson/minheeson.github.io/blob/master/assets/img/posts/darkweb.png" width="400"/>
 
 _서피스웹(surface web)_ : 사용자가 전하는 웹
 
