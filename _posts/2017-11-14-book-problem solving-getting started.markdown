@@ -3,7 +3,7 @@ layout: post
 title:  "[Problem Solving] getting started"
 subtitle:   "[Problem Solving] getting started"
 categories: book
-tags: problem_solving
+tags: problemsolving
 ---
 
 
