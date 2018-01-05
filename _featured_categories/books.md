@@ -1,6 +1,6 @@
 ---
 layout: list
-title: BOOKS
+title: BOOK
 slug: book
 menu: true
 submenu: true
